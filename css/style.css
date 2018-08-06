@@ -16,7 +16,7 @@ hr {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 #name {
-  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(Portfolio/images/CityPattern6.jpg);
+  background: linear-gradient(rgba(255, 255, 255, 0.3), rgba(255, 255, 255, 0.3)), url(https://github.com/HugoBee/Portfolio/blob/master/images/CityPattern6.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -144,7 +144,7 @@ i {
 
 body {
     padding-bottom: 50px;
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(Portfolio/images/mechbackground.jpg);
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url(https://github.com/HugoBee/Portfolio/blob/master/images/mechbackground.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
