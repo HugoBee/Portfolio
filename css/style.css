@@ -144,7 +144,7 @@ i {
 
 body {
     padding-bottom: 50px;
-    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("Portfolio/images/mechbackground.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)), url("/Portfolio/images/mechbackground.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -167,5 +167,7 @@ body {
     
     width: 100%;
     height: 900px;
+    background-position: center;
+    
 
 }
