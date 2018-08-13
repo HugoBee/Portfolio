@@ -9,8 +9,6 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    max-height: 100%;
-    max-width: 100%; 
 }
 
 
@@ -19,6 +17,8 @@ body {
     padding-left: 15px;
     margin-right: auto;
     margin-left: auto;
+    max-height: 100%;
+    max-width: 100%; 
 }
 
 
