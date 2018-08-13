@@ -9,6 +9,8 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    max-height: 100%;
+    max-width: 100%; 
 }
 
 
